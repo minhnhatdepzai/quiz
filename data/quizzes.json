@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Kiến thức lịch sử Việt Nam",
+    "description": "Quizz về lịch sử cơ bản",
+    "questions": [
+      {
+        "text": "Thủ đô hiện tại của Việt Nam là?",
+        "options": ["Hà Nội", "TP. Hồ Chí Minh", "Huế", "Đà Nẵng"],
+        "correctIndex": 0
+      },
+      {
+        "text": "Việt Nam độc lập năm nào?",
+        "options": ["1945", "1954", "1975", "1986"],
+        "correctIndex": 0
+      }
+    ]
+  }
+]
